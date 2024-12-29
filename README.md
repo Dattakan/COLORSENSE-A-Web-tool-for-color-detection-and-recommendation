@@ -4,3 +4,5 @@
     interactively identify colors by hovering their mouse over the image, displaying the corresponding RGB and HEX values in real-time. Additionally, users can input 
     their current emotion, and the application generates a personalized color palette designed to complement or enhance that emotion.it can also take the rgb values 
     as input and provide complementary and analogous colors for better color combinations
+
+    This is my first solo project which helped me to understand the better implementation of HTML,CSS,JAVASCRIPT
